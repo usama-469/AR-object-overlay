@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 8bd447d2636ece54b860e2172676aa67
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_350 _Entrance
+    second: {fileID: 2800000, guid: 383a1291e79b2c14ea8afcbc370eaf5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial
+    second: {fileID: 2800000, guid: bd494df646947f747b493ed5441bdb34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial2
+    second: {fileID: 2800000, guid: 9cb7db57a9b188345a1eef17e8d63a6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial3
+    second: {fileID: 2800000, guid: 30e1d822db131ac478af913b125c4605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Aerial4
+    second: {fileID: 2800000, guid: b1b2fb543e0738b49bfb1501dd9cf368, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Front Windows
+    second: {fileID: 2800000, guid: 5a755891039856747bcbe030a5ef0c7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Front WindowsBottom
+    second: {fileID: 2800000, guid: eb68a3c251736874b8f2e3997f5ee76e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Name
+    second: {fileID: 2800000, guid: cb77045b94a80184aa99fbee7363c300, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide2
+    second: {fileID: 2800000, guid: a9afee29c99a45e4ca72a2860b70738a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide2_Centre
+    second: {fileID: 2800000, guid: f2d37c5bb48bbdb4e94a1964516ecbec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_NorthSide3
+    second: {fileID: 2800000, guid: 7d29e2912419f2a44be8f128d767f8bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Roof
+    second: {fileID: 2800000, guid: 58d299b46a4b6764088925547ff073db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows
+    second: {fileID: 2800000, guid: 2401c9ae8e7e9c043b44efefd4898d5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom1
+    second: {fileID: 2800000, guid: baccb0e864f9fda488831e84194418e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom2
+    second: {fileID: 2800000, guid: 026a645f0eec4a34ebb71a01da9cdcbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side Windows_Bottom3
+    second: {fileID: 2800000, guid: 91a8d503ad095cd4abb813bb59c2dd4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows
+    second: {fileID: 2800000, guid: 9a4cdb04d79a9794fa5d79b2fbf2e72b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom1
+    second: {fileID: 2800000, guid: 260d7287dd176de43925cd68967e112a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom2
+    second: {fileID: 2800000, guid: ffb3e4454277a4840a5ec6b5e3f5198c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Side1 Windows_Bottom3
+    second: {fileID: 2800000, guid: 1a9b085d65473024ea86b734975666c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_SideFacadeTexture
+    second: {fileID: 2800000, guid: c1600ecc1ae04594ab50359b7f43dde0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top SingleWindow
+    second: {fileID: 2800000, guid: 20f8db7de92fd5648a3e36d4f3b5b720, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top1
+    second: {fileID: 2800000, guid: de352573a9406ba41af7151d929defa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_Top2
+    second: {fileID: 2800000, guid: a03f65c8cb340c448b8d27f410631fe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide1
+    second: {fileID: 2800000, guid: b6e77b6c85dab4a42923b652da5ce1ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide2
+    second: {fileID: 2800000, guid: ea84b0b493ab3b14c9238376c8e96ad4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State Building_WestSide_new_1
+    second: {fileID: 2800000, guid: f5ab87a94a73f8e41aa53aed9a6f975c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Front Bottom_1
+    second: {fileID: 2800000, guid: 54df73b1dae2bb74d926c17b2452ffeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Side Bottom_1
+    second: {fileID: 2800000, guid: 5bccc685ef3e51046933bf0b021d63da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top 2
+    second: {fileID: 2800000, guid: 96ef034ce79213445be2b46fb8bcb617, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top Arch
+    second: {fileID: 2800000, guid: 2c03a59aa2b5dc54abe7fa1ee58b05c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top1
+    second: {fileID: 2800000, guid: 600e98ea38f7e5c45a0cd1ca795f9468, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Empire State_Top2
+    second: {fileID: 2800000, guid: ee8b391472d116c4981da06a7ebea8e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t2
+    second: {fileID: 2800000, guid: 98f4d639cac065f43b9e42c02c1784d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t5
+    second: {fileID: 2800000, guid: c4b7cd3a453ca9542a5ca459f395acd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t6
+    second: {fileID: 2800000, guid: 081357dceacd96f4095bbe5a532ee14c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
