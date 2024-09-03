@@ -13,6 +13,12 @@
 ## Introduction
 The Cross-Platform AR Object Detection App is an augmented reality application that uses Unity, Vuforia and the Model Target Generator to recognize and overlay AR content on real-world objects. Users can provide a set of 3D models of real-world objects, and whenever these objects are detected, the app displays relevant information and animations as an overlay. This app has vast applications in various fields, including retail, tourism, education, and development, where interactive and informative overlays can enhance user experience.
 
+
+
+https://github.com/user-attachments/assets/6b59a011-0052-41ed-845b-2181817df506
+
+
+
 ## Features
 - **Vuforia Object Detection:** Utilizes Vuforia’s powerful object detection capabilities to recognize real-world objects based on provided 3D models.
 - **Model Target Generator:** Generate model targets from 3D models to accurately detect objects in the real world.
