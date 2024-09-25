@@ -43,8 +43,7 @@ https://github.com/user-attachments/assets/6b59a011-0052-41ed-845b-2181817df506
    - Customize the information and animations associated with each detected object to suit different use cases.
    - Explore various scenarios, such as in-store product information, historical site tours, educational displays, or prototype visualization.
 
-## Video Demo
-See the Cross-Platform AR Object Detection App in action: [Link to Video Demo](#)
+
 
 ## Benefits
 - **Enhanced User Experience:** Provides an interactive and immersive experience by overlaying information directly onto recognized objects.
